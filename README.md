@@ -40,7 +40,9 @@ For the visual clip, it starts with the idea that
 **viruses cannot be seen and some live on humans**:
 hence, it shows heavily zoomed-in pictures of our group members,
 as viruses live on our skin.
+The black between the images is represents the
+darkness inside of the bodies of our team members:
+viruses live there too.
 
-Editing has been done by a human in Kdenlive. The black between the images is intended
-to mean the darkness in which viruses live.
+Editing has been done by a human in Kdenlive. 
 It resulted in [the final videoclip](the_virus_song.mp4).
