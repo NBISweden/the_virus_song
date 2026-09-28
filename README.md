@@ -2,6 +2,8 @@
 
 The Virus Song, written during the NBIS retreat of 2026-09-28.
 
+- [The videoclip](the_virus_song.mp4)
+
 The music of this version starts with the idea that
 **viruses do not sing like humans**:
 they do not speak English, and -because they operate at
@@ -41,3 +43,4 @@ as viruses live on our skin.
 
 Editing has been done by a human in Kdenlive. The black between the images is intended
 to mean the darkness in which viruses live.
+It resulted in [the final videoclip](the_virus_song.mp4).
